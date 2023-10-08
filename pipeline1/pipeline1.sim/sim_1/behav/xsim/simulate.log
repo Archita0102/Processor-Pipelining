@@ -1,9 +1,0 @@
-Vivado Simulator 2019.2
-Time resolution is 1 ps
-Time :                    0  F=   x
-Time :                   31  F=  75
-Time :                   51  F=  66
-Time :                   71  F= 112
-Time :                   91  F=  62
-Time :                  111  F=   0
-$finish called at time : 300 ns : File "D:/VERILOG/Coding Practice/NPTEL/pipeline1/pipeline1.srcs/sim_1/new/tb.v" Line 27
